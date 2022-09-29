@@ -1,1 +1,1 @@
-# py_solid_principle
+# py_warrior
